@@ -18,8 +18,8 @@
 	height: 100%;
 	width: 100%;
 	/*background-color: darkblue;*/
-	display: flex;
-	flex-flow: column;
+	
+	
 	
 }
 #search_area{
@@ -67,7 +67,7 @@
 
 #container-left-buttom{
 	width: 100%;
-	flex: 1;
+	
 	
 	
 }
@@ -91,7 +91,7 @@
 	height: 60%;
 	width: 5%;
 	position: fixed;
-	top: 140px;
+	top: 22%;
 	left: 95%;
 	/*opacity: .5;
 	background-color: lawngreen;*/
